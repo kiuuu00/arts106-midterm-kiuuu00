@@ -5,7 +5,7 @@ using UnityEngine.Audio;
 
 public class audio : MonoBehaviour
 {
-
+    public LayerMask waterholeM;
     public AudioMixerSnapshot idleSnapshot;
     public AudioMixerSnapshot room1Snapshot;
 
